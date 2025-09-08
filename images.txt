@@ -1,4 +1,4 @@
-surnet/alpine-wkhtmltopdf:3.21.3-024b2b2-small
+openresty/openresty:1.21.4.1-0-alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
